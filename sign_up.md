@@ -4,4 +4,3 @@
 4. A senha exclusiva é escolhida para o novo registro
 5. Redirecionamento para a página de login
 
-
